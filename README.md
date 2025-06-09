@@ -15,19 +15,8 @@ I'm a software developer who loves turning ideas into real-world solutions using
 
 ---
 
-## 💡 Interests
-
-- Machine Learning & Deep Learning
-- AI for Social Good
-- Open Source Collaboration
-- Problem Solving & Algorithmic Challenges
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jacobpatag)
 
 ---
-
-*“Code is how I turn curiosity into innovation.”*
