@@ -9,7 +9,7 @@
 
 I'm a software developer who loves turning ideas into real-world solutions using code. With a strong foundation in Python and C++, I’m especially driven by the power of machine learning and AI to make a positive impact.
 
-- 🎓 Graduated from the University of Florida
+- 🎓 May 2026 Graduate from University of Florida
 - 🔬 Enthusiastic about leveraging artificial intelligence to solve real-world problems
 - 🛠️ Always learning, building, and pushing the boundaries of what code can do
 
